@@ -1,5 +1,7 @@
 #' Outersection of two vectors
 #'
+#' https://www.r-bloggers.com/outersect-the-opposite-of-rs-intersect-function/
+#'
 #' @param x vector
 #' @param y vector
 #'
